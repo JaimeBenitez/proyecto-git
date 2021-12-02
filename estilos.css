@@ -1,0 +1,33 @@
+body{
+    background-color: silver;
+    font-family: Fantasy;
+    text-align: center;
+  }
+  
+  h1 {
+    color: red;
+    font-size: 50px;
+    }
+  h3 {
+    color: green;
+    }
+  
+  #img-div{
+  background-color: white;
+  margin: auto;
+  
+  }
+  
+  #img{
+    width : 100%;
+  }
+  
+  #img-caption{
+      color: blue;
+   }
+  h4 {
+    font-style: italic;
+  }
+  blockquote{
+    font-style: italic;
+  }
